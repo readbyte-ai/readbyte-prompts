@@ -5,8 +5,8 @@
 
 在提示词中需要注意：
 
-- <context>原文内容</context>
-- <original>不需要翻译的单词</original>
-- <special>特定需要翻译的单词</special>
+- \<context\>原文内容\</context\>
+- \<original\>不需要翻译的单词\</original\>
+- \<special\>特定需要翻译的单词\</special\>
 
 2.待续
