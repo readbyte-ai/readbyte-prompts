@@ -1,5 +1,3 @@
-**# readbyte-prompts**
-
 # 分享我的大模型提示词
 **建议使用Deekseek、Qwen2.5-72B、Claude3.5、GTP4o等智力出色的大模型。**
 
