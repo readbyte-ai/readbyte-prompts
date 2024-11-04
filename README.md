@@ -3,3 +3,4 @@
 
 1、tech_doc_en_trans.txt —— 翻译英文技术文档，以markdown格式输出，识别代码片段，在提示词中需要注意：
 <context>原文内容</context>，<original>不需要翻译的单词</original>，<special>特定需要翻译的单词</special>
+2.待续
