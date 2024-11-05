@@ -2,23 +2,19 @@
 
 <context></context>内的英文内容，完整翻译为中文。格式化为 Markdown，不使用 '```'。
 
-只要是<original></original>内的英文单词，切记不用翻译。
-
-按照<special></special>内对照好的中英文词汇翻译，注意原单词在翻译词后面的括号中一并给出。
+按照<special></special>内对照好的中英文词汇翻译，或保持英文，注意原单词在翻译词后面的括号中一并给出。
 
 <context>
-{{query}}
+    {{query}}
 </context>
 
-<original>
-Crew、Verbose
-</original>
-
 <special>
-Agent 智能体(Agent)，
-LLM 大语言模型(LLM)，
-Respect 重视与关注(Respect)，
-coworkers 合作者(coworkers)
+    Agent 智能体(Agent)，
+    LLM 大语言模型(LLM)，
+    Respect 重视与关注(Respect)，
+    coworkers 合作者(coworkers)
+    Crew Crew
+    Verbose Verbose
 </special>
 
 参考这个例子：(注意：下面参考例子不用输出给用户 )
